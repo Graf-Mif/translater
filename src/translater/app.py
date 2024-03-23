@@ -39,6 +39,7 @@ TRANSLATION_TABLE = {
     'э': ']',
     'ю': "'",
     'я': '>',
+    'ы': '`',
 }
 
 REVERSE_TRANSLATION_TABLE = {v: k for k, v in TRANSLATION_TABLE.items()}
